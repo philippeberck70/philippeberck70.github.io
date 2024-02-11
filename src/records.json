@@ -74,6 +74,402 @@
                         "bad": "es"
                     }
                 ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
+                    }
+                ]
             }
         ]
     }

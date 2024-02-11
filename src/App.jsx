@@ -4,6 +4,7 @@ import Navbar from './components/Navbar'
 import Home from './components/Home'
 import About from './components/About'
 import Exercices from './components/Exercices'
+import Nopage from './components/Nopage'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -17,6 +18,7 @@ function App() {
             <Route path="/" Component={Home} />
             <Route path="exercices" Component={Exercices} />
             <Route path="about" Component={About} />
+            <Route path='*' Component={Nopage} />
           </Routes>
         </div>
       </BrowserRouter>

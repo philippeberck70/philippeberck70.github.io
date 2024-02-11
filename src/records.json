@@ -9,15 +9,33 @@
                 "sentences": [
                     {
                         "sentenceid": 1,
-                        "sentencename": "Elle est _ chez elle.",
+                        "sentencename": "Elle est _ à la maison toute la journée.",
                         "good": "restée",
                         "bad": "resté"
                     },
                     {
                         "sentenceid": 2,
-                        "sentencename": "Ils _ dans la cour.",
-                        "good": "jouent",
-                        "bad": "joue"
+                        "sentencename": "Ils sont _ à la pêche.",
+                        "good": "allés",
+                        "bad": "allées"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Elle est _ coucher tôt.",
+                        "good": "allée",
+                        "bad": "allé"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle a _ des pâtes.",
+                        "good": "mangé",
+                        "bad": "mangée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Ils ont _ mes clés.",
+                        "good": "retrouvé",
+                        "bad": "retrouvés"
                     }
                 ]
             },
@@ -27,9 +45,33 @@
                 "sentences": [
                     {
                         "sentenceid": 1,
-                        "sentencename": "Il partira demain matin _ huit heures.",
-                        "good": "à",
-                        "bad": "a"
+                        "sentencename": "Les enfants _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "_-tu rangé tes affaires ?",
+                        "good": "As",
+                        "bad": "A"
+                    },
+                    {
+                        "sentenceid": 3,
+                        "sentencename": "Tu _ partir si tu veux.",
+                        "good": "peux",
+                        "bad": "peu"
+                    },
+                    {
+                        "sentenceid": 4,
+                        "sentencename": "Elle aime _ dans la forêt.",
+                        "good": "marcher",
+                        "bad": "marchée"
+                    },
+                    {
+                        "sentenceid": 5,
+                        "sentencename": "Il _ déjà midi.",
+                        "good": "est",
+                        "bad": "es"
                     }
                 ]
             }

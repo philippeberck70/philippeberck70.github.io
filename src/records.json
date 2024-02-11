@@ -1,0 +1,38 @@
+[
+    {
+        "groupid": 1,
+        "groupname": "Groupe 1",
+        "exercices": [
+            {
+                "exerciceid": 1,
+                "exercicename": "Exercice 1",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Elle est _ chez elle.",
+                        "good": "restée",
+                        "bad": "resté"
+                    },
+                    {
+                        "sentenceid": 2,
+                        "sentencename": "Ils _ dans la cour.",
+                        "good": "jouent",
+                        "bad": "joue"
+                    }
+                ]
+            },
+            {
+                "exerciceid": 2,
+                "exercicename": "Exercice 2",
+                "sentences": [
+                    {
+                        "sentenceid": 1,
+                        "sentencename": "Il partira demain matin _ huit heures.",
+                        "good": "à",
+                        "bad": "a"
+                    }
+                ]
+            }
+        ]
+    }
+]
